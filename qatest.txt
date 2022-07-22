@@ -1,3 +1,4 @@
 This is a test 123
 test - git push - worked 
-test - git pull ???
+test - git pull - worked 
+Now push all those other files 
