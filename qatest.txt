@@ -3,3 +3,5 @@ test - git push - worked
 test - git pull - worked 
 Now push all those other files 
 Saturday hot day, taking rosy for lunch...
+going near the water
+early morning lab - having issues w functions
