@@ -5,3 +5,5 @@ Now push all those other files
 Saturday hot day, taking rosy for lunch...
 going near the water
 early morning lab - having issues w functions
+__
+Lots of changes, var, numerical operators, sting, arrays, conditionals, loops, object, function, class - OOP concepts - class project 
