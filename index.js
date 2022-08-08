@@ -14,6 +14,7 @@
 // console.log(
 //     `${getName()} was born on ${dob}`
 // );
-const User = require('./classUser');
+//const User = require('./classUser');
+const User = require('./classUser')
 const Phil = new User('Phil', 58, 'pjfruiz@outlook.com');
 console.log(Phil.getUserStats());
